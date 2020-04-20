@@ -280,7 +280,7 @@ This document will be updated regularly as new information becomes available.
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
 |Belvedere trading|✅||
-|Black Rock|✅|Still on. Considering remote.|
+|BlackRock|✅|Remote internship for 9 weeks.|
 |Blade|✅|Currently no plans to change anything|
 |Blend|✅|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
 |Bloomberg|✅|Won't be cancelling. Considering remote. Details in the coming weeks.|
